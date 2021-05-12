@@ -17,7 +17,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a full-stack engineer interested in create new things
+### I am a full-stack software engineer interested in create new things
 
 I'm Rodrigo, a full-stack software engineer 💻 currently working at [Digihub.com.br](https://digihub.com.br)
 
