@@ -1,16 +1,36 @@
-### Hi there 👋
+<p>
+  <h1 align="center"><b>Hello there, I'm Rodrigo 👋</b></h1>
+</p>
 
-<!--
-**rodrigogsilva/rodrigogsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/rodrigogsilva" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<br>
+<a href="https://www.linkedin.com/in/rodrigogoncalvess/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:rodrigogoncalveess@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/rodrigogoncalvess/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+### I am a full-stack engineer interested in create new things
+
+I'm Rodrigo, a full-stack software engineer 💻 currently working at [Digihub.com.br](https://digihub.com.br)
+
+I have a passion for clean code, Python, C# and Javascript
+
+- 🔭 I’m currently working on my portifolio
+- 🌱 I’m currently learning JamStack
+
+<br /><br /><br /><br /><br />
+
+### :zap: Github Stats
+
+<br />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rodrigogsilva&show_icons=true&theme=tokyonight" alt="rodrigogsilva's github stats" width="60%">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigogsilva&langs_count=5&theme=tokyonight" width="37%" alt="Sumanth's Top Languages">
