@@ -19,12 +19,11 @@
 
 ### I am a full-stack software engineer interested in create new things
 
-I'm Rodrigo, a full-stack software engineer 💻 currently working at [Digihub.com.br](https://digihub.com.br)
+I'm Rodrigo, a full-stack software engineer 💻 currently working at [Far.me](http://farme.com.br/)
 
 I have a passion for clean code, Python, C# and Javascript
 
-- 🔭 I’m currently working on my portifolio
-- 🌱 I’m currently learning JamStack
+- 🌱 I’m currently learning Nestjs
 
 <br /><br /><br /><br /><br />
 
