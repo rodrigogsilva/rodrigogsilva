@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/rodrigogsilva" />
-</p>
-
-<p align="center">
 <br>
 <a href="https://www.linkedin.com/in/rodrigogoncalvess/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:rodrigogoncalveess@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
@@ -19,7 +15,7 @@
 
 ### I am a full-stack software engineer interested in create new things
 
-I'm Rodrigo, a full-stack software engineer 💻 currently working at [Far.me](http://farme.com.br/)
+I'm Rodrigo, a full-stack software engineer 💻
 
 I have a passion for clean code, Python, C# and Javascript
 
